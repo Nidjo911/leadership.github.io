@@ -1,0 +1,29 @@
+{
+  "name": "ispit_package",
+  "version": "1.0.0",
+  "description": "paket za ispit",
+  "main": "script.js",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidjo911/Leadership.git"
+  },
+  "keywords": [
+    "ispit"
+  ],
+  "author": "ns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidjo911/Leadership/issues"
+  },
+  "homepage": "https://github.com/Nidjo911/Leadership#readme"
+}
